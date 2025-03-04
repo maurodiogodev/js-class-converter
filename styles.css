@@ -141,6 +141,14 @@ footer {
   overflow-y: scroll;
 }
 
+footer.error-message {
+  background-color: #632323;
+  overflow: hidden;
+  color: white;
+
+  display: block;
+}
+
 .show-result {
   display: block;
 }
